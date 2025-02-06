@@ -4,7 +4,7 @@ import ProjectList from "./ProjectList";
 import Thumbnail from "./Thumbnail";
 import Movix from "../../assets/Movix.png";
 import reactOpenai from "../../assets/react-openai.png";
-import EduVerseProject from "../../assets/EduVerse-project.png";
+import EduVerseProject from "../../assets/EduVerse-Project.png";
 import BrightSideJournal from "../../assets/BrightSideJournal.png";
 import Registration from "../../assets/landing-page.png";
 
