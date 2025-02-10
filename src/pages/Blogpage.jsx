@@ -19,7 +19,7 @@ const blogs = [
     title: "Why every developer uses Git.",
     description:
       "Git allows us to have a version of a project that tracks changes over time, enabling backtracking and undoing modifications when necessary.",
-    link: "/*",
+    link: "https://medium.com/@Faizan6100-amu/why-every-developer-uses-git-319c49ed6b54",
   },
   {
     img: "https://miro.medium.com/v2/resize:fit:1358/1*E-aQcJ4MRtqxbC2oPPSLzw.jpeg",
