@@ -7,7 +7,7 @@ const EducationComponent = () => {
             Master of Computer Science and Application (MCA)
           </span>
           <p className="text-sm text-slate-500 dark:text-slate-400">
-            Aligarh Muslim University | August 2022 - July 2024
+            Aligarh Muslim University | Grade: 8.2 CGPA | August 2022 - July 2024
           </p>
         </li>
         <li className="py-4">
@@ -15,7 +15,7 @@ const EducationComponent = () => {
             Bachelor Degree (Hons.)
           </span>
           <p className="text-sm text-slate-500 dark:text-slate-400">
-            Aligarh Muslim University | July 2019 - June 2022
+            Aligarh Muslim University | Grade: 8.0 CGPA | July 2019 - June 2022
           </p>
         </li>
         <li className="py-4">
@@ -23,7 +23,7 @@ const EducationComponent = () => {
             Senior Secondary (PCM)
           </span>
           <p className="text-sm text-slate-500 dark:text-slate-400">
-            CBSE | May 2019
+            CBSE | Grade: 76.0 % | May 2019
           </p>
         </li>
       </ul>
